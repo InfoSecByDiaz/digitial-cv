@@ -1,16 +1,12 @@
 ## Allan Diaz, PMP
 
-OEF/OIF U.S. Army Veteran
-22+ Years of Experience & Preparation
-Delivering Support to US Army, DoD, & DoS Projects
-Seeking Entry Level DFIR, ISSO, or Intelligence opportunities
-Currently working as a Network Administrator, 8570 @ IAT Level III
-Masters of Art Intelligence Studies-Collection
-Recent S.T.E.M. graduate Bachelor of Science Info. Systems Security-Digital Forensics
+OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
 
-### Markdown
+### U.S. CENTRAL COMMAND EXPERIENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Envistacom| Network Administrator III CJ6X
+March 2021 – Present Active DoD SECRET
+Project: GTACS II Stakeholders: Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) Tasks: I provide engineering support and Face-to-Face interaction. Resolve SolarWinds and Spectrum network flow analysis utilizing three layers of technologies, such as HSRP, EIGRP, and BGP. Projects involve are: AAAB Fiber Installations, Teck-V Refresh, Phantom Kedge, Union III, Erbil, and AAAB Base Reduction. – Kuwait 
 
 ```markdown
 Syntax highlighted code block
