@@ -22,7 +22,7 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - September 2019 – November 2019
 - Transitioning between jobs – CONUS 
 
-### GardaWorld | Comm. Info. Tech. Specialist G6
+### GardaWorld | Communication Information Technology Specialist (CITS) G6
 - November 2018 – September 2019 
 - DoS SECRET
 - Project: Kabul Embassy Security Force Task Force 8 
