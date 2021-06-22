@@ -18,7 +18,7 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - Stakeholders: ASG-Kuwait, IMD/ASD
 - Tasks: I provide  Ad hoc IT Helpdesk Support, Remotely, Onsite, assist VTC and KDOC. Face-to-Face interaction | Resolved (users, hardware, software, & NIPR, SIPR, CITRIX network) problems. Provisioning NIPR & SIPR Accounts. Authenticated users on ATCTS, share folder, Intensive use of Active Directory, BMC Remedy ITSM, SharePoint. ADPE backup, imagining, baseline, and restore client machines IAW 54th Sig Battalion. – Kuwait
 
-### Home | Recalibrating
+### **Home | Recalibrating**
 - September 2019 – November 2019
 - Transitioning between jobs – CONUS 
 
