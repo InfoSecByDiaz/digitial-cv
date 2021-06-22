@@ -4,9 +4,11 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 
 ### U.S. CENTRAL COMMAND EXPERIENCE
 
-Envistacom| Network Administrator III CJ6X
-March 2021 – Present Active DoD SECRET
-Project: GTACS II Stakeholders: Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) Tasks: I provide engineering support and Face-to-Face interaction. Resolve SolarWinds and Spectrum network flow analysis utilizing three layers of technologies, such as HSRP, EIGRP, and BGP. Projects involve are: AAAB Fiber Installations, Teck-V Refresh, Phantom Kedge, Union III, Erbil, and AAAB Base Reduction. – Kuwait 
+# Envistacom | Network Administrator III CJ6X
+- March 2021 – Present Active DoD SECRET
+- Project: GTACS II 
+- Stakeholders: Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) 
+- Tasks: I provide engineering support and Face-to-Face interaction. Resolve SolarWinds and Spectrum network flow analysis utilizing three layers of technologies, such as HSRP, EIGRP, and BGP. Projects involve are: AAAB Fiber Installations, Teck-V Refresh, Phantom Kedge, Union III, Erbil, and AAAB Base Reduction. – Kuwait 
 
 ```markdown
 Syntax highlighted code block
