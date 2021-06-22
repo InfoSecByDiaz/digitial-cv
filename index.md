@@ -108,6 +108,8 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - The Data Scientist’s Toolbox by Johns Hopkins University
 - CITI Program A Division of BRANY Social & Behavioral Research
 
+For more details see my [webpage](https://allandiaz.tech/).
+
 ```markdown
 Syntax highlighted code block
 
