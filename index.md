@@ -11,7 +11,7 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - Stakeholders: Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) 
 - Tasks: I provide engineering support and Face-to-Face interaction. Resolve SolarWinds and Spectrum network flow analysis utilizing three layers of technologies, such as HSRP, EIGRP, and BGP. Projects involve are: AAAB Fiber Installations, Teck-V Refresh, Phantom Kedge, Union III, Erbil, and AAAB Base Reduction. – Kuwait 
 
-### Vectrus| Certified Systems Support Specialist G6 
+### Vectrus | Certified Systems Support Specialist G6 
 - November 2019 – February 2021 
 - DoD SECRET
 - Project: K-BOSSS program 
