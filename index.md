@@ -6,7 +6,7 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 
 ### Envistacom | Network Administrator III CJ6X
 - March 2021 – Present 
-- Active DoD SECRET
+- DoD SECRET
 - Project: GTACS II 
 - Stakeholders: Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) 
 - Tasks: I provide engineering support and Face-to-Face interaction. Resolve SolarWinds and Spectrum network flow analysis utilizing three layers of technologies, such as HSRP, EIGRP, and BGP. Projects involve are: AAAB Fiber Installations, Teck-V Refresh, Phantom Kedge, Union III, Erbil, and AAAB Base Reduction. – Kuwait 
@@ -129,15 +129,19 @@ Encase, FTK, X-Ways, SIFT, Splunk, Caine, Redline, Volatility, Wireshark, tcpdum
 5. Thai
 
 ### EDUCATION
-<p>August 2021 AMU – MA Intelligence Studies – Collections</p>
-<p>August 2020 AMU – BS Info. Systems Security-digital Forensics</p>
-<p>September 2016 AMU – Undergraduate Terrorism Studies</p>
-<p>September 2004 Westwood – AS Multi-media Graphics Design</p> 
-<p>February 1998 U.S. Army Ordnance Munitions & Electronics Maintenance School</p> 
-<p>June 1996 Los Angeles City College – AA Business Administration</p>
+<ul>
+<li>August 2021 AMU – MA Intelligence Studies – Collections</li>
+<li>August 2020 AMU – BS Info. Systems Security-digital Forensics</li>
+<li>September 2016 AMU – Undergraduate Terrorism Studies</li>
+<li>September 2004 Westwood – AS Multi-media Graphics Design</li> 
+<li>February 1998 U.S. Army Ordnance Munitions & Electronics Maintenance School</li> 
+<li>June 1996 Los Angeles City College – AA Business Administration</li>
+ </ul>
 
 ### HONORS, AWARDS, HOBBIES
 Honorable Discharge, Global War on Terrorism Expeditionary Medal, Global War on Terrorism Service Medal. Completed 12 L.A. Marathons, Criminal Justice Honor Society Alpha Phi Sigma award. Digital Forensics Incident Response (DFIR), Pen Testing, Packet Analyzer, Vulnerability Scanner, Front End Web Development, Virtual Machines (VM), Photography. RMF, NIST, FISMA, DISA STIG, COTS, and POA&Ms practitioner.
 
 For more details see my [webpage](https://allandiaz.tech/).
+
+<input type="text">
 
