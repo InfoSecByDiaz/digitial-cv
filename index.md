@@ -1,4 +1,4 @@
-## Allan Diaz, PMP 
+<h1>Allan Diaz, PMP</h1>
 
 OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
 
@@ -131,12 +131,12 @@ Encase, FTK, X-Ways, SIFT, Splunk, Caine, Redline, Volatility, Wireshark, tcpdum
 5. Thai
 
 ### EDUCATION
-August 2021 AMU – MA Intelligence Studies – Collections 
-August 2020 AMU – BS Info. Systems Security-digital Forensics
-September 2016 AMU – Undergraduate Terrorism Studies
-September 2004 Westwood – AS Multi-media Graphics Design 
-February 1998 U.S. Army Ordnance Munitions & Electronics Maintenance School 
-June 1996 Los Angeles City College – AA Business Administration
+<p>August 2021 AMU – MA Intelligence Studies – Collections</p>
+<p>August 2020 AMU – BS Info. Systems Security-digital Forensics</p>
+<p>September 2016 AMU – Undergraduate Terrorism Studies</p>
+<p>September 2004 Westwood – AS Multi-media Graphics Design</p> 
+<p>February 1998 U.S. Army Ordnance Munitions & Electronics Maintenance School</p> 
+<p>June 1996 Los Angeles City College – AA Business Administration</p>
 
 ### HONORS, AWARDS, HOBBIES
 Honorable Discharge, Global War on Terrorism Expeditionary Medal, Global War on Terrorism Service Medal. Completed 12 L.A. Marathons, Criminal Justice Honor Society Alpha Phi Sigma award. Digital Forensics Incident Response (DFIR), Pen Testing, Packet Analyzer, Vulnerability Scanner, Front End Web Development, Virtual Machines (VM), Photography. RMF, NIST, FISMA, DISA STIG, COTS, and POA&Ms practitioner.
