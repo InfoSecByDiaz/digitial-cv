@@ -1,8 +1,12 @@
-## Allan Diaz
+## Allan Diaz, PMP
 
-You can use the [editor on GitHub](https://github.com/githubdiaz/digitial-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+OEF/OIF U.S. Army Veteran
+22+ Years of Experience & Preparation
+Delivering Support to US Army, DoD, & DoS Projects
+Seeking Entry Level DFIR, ISSO, or Intelligence opportunities
+Currently working as a Network Administrator, 8570 @ IAT Level III
+Masters of Art Intelligence Studies-Collection
+Recent S.T.E.M. graduate Bachelor of Science Info. Systems Security-Digital Forensics
 
 ### Markdown
 
