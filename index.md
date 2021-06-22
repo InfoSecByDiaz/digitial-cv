@@ -1,4 +1,5 @@
 ## Allan Diaz, PMP 
+![image](https://user-images.githubusercontent.com/10322106/122913130-beb8c280-d361-11eb-8066-77f3f2ac50f3.png)
 
 OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
 
@@ -107,6 +108,16 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - MS Windows 7 Enterprise Desktop Support Technician   
 - The Data Scientist’s Toolbox by Johns Hopkins University
 - CITI Program A Division of BRANY Social & Behavioral Research
+
+### KNOWLEDGE, SKILLS, ABILITIES
+![Uploading image.png…]()
+- Customer Centric 
+- Agile, Time Management
+- STAMIS / LIS Instructor
+- Oracle Database Administrator, SQL Plus
+- System Administrator, Powershell
+- ADPE, WIN, Mac, Linux
+- Network Administrator, LAN/WAN
 
 For more details see my [webpage](https://allandiaz.tech/).
 
