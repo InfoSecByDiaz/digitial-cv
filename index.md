@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Allan Diaz
 
 You can use the [editor on GitHub](https://github.com/githubdiaz/digitial-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
