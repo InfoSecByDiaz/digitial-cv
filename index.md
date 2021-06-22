@@ -56,6 +56,50 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - Stakeholders: 1st TSC 
 - Tasks: Supervised, collaborated & guided Class 5 cohorts as a Subject Matter Expert (SME). Logistician, Required Supply Rate, Controlled Supply Rate, NLAC, LIW, JHCS. Developed Gap Analysis, Gantt chart, empirical statements. Shipping, Receiving, Warehousing, RFID. Performed Causative Research & Development (R&D) of conventional ammunition. Full Stack SAAS-MOD. – Kuwait 
 
+### CERTIFICATIONS
+- PMI: Project Management Professional (PMP) ®
+- CISCO CCNA Routing and Switching   
+- CISCO CCNP Routing and Switching   
+- Certified Six Sigma Black Belt (CSSBB™)   
+- Certified Six Sigma Champion (CSSC™)
+- Certified Six Sigma Master Black Belt (CSSMBB™)   
+- CompTIA A+ Essentials / Practical  Application   
+- CompTIA Advanced Security Practitioner CE (CASP)   
+- CompTIA Cloud+ CE   
+- CompTIA Linux+ Powered by LPI   
+- CompTIA Secure Cloud Professional    
+- CompTIA Security+ CE   
+- CompTIA Certified Systems Support Specialist    
+- EC-Council Certified Network Defense Architect v7   
+- EC-Council Certified Security Analyst (ECSA) v4   
+- EC-Council Computer Hacking Forensic Investigator v4   
+- EC-Council Ethical Hacking and Countermeasures (CEHv7)   
+- EC-Council Licensed Penetration Tester   
+- ISFS Information Security Foundation ISO IEC 27002   
+- ITILF ITIL® v3 Foundation Certificate in IT Service Management   
+- LPIC-1: Linux Server Professional Certification   
+- MCITP: Enterprise Desktop Administrator on Windows 7 
+- MCITP: Enterprise Desktop Support Technician on Windows MCPS: Microsoft Certified Professional   
+- MCSA: Windows 7   
+- MCTS: Windows 7, Configuration   
+- MCTS: Windows Server 2008 R2, Server Virtualization   
+- Microsoft Certified Solutions Associate Server 2012 (MCSA)   
+- MCSE Cloud Platform and Infrastructure   
+- Microsoft Certified Solutions Expert Private Cloud   
+- Microsoft Certified Solutions Expert Server Infrastructure (MCSE)  
+- Microsoft Specialist Configuring Windows Devices   
+- Microsoft Specialist Windows 7 Configuring   
+- Microsoft Specialist Windows 7 Enterprise Desktop Administrator   
+- MS Windows 7 Enterprise Desktop Support Technician   
+- The Data Scientist’s Toolbox by Johns Hopkins University
+- CITI Program A Division of BRANY Social & Behavioral Research
+![image](https://user-images.githubusercontent.com/10322106/122909203-9f1f9b00-d35d-11eb-9f17-3bcf1bf7199f.png)
+
+
+
+
+
+
 
 
 
