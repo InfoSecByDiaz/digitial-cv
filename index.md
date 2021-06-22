@@ -25,7 +25,7 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 ### GardaWorld | Communication Information Technology Specialist (CITS) G6
 - November 2018 – September 2019 
 - DoS SECRET
-- Project: Kabul Embassy Security Force Task Force 8 
+- Project: Kabul Embassy Security Force Task Force 8 (KESF)
 - Stakeholders: Department of State, US Embassy. 
 - Tasks: Ad hoc IT Helpdesk remotely, onsite. Face-to-Face customer interaction. Resolved (users, hardware, software, & network) problems. Non-Personal Security Specialist (NPSS) | Worldwide Protective Services (WPS2). Quick Reaction Force Diplomatic Security. – Afghanistan
 
@@ -39,8 +39,17 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 ### The Logistics Company (TLC) | Sr. Systems Analyst | Theater SASMO G6
 - January 2011 – May 2018 
 - DoD SECRET
-- Project: Theatre SASMO 
+- Project: Theatre Sustainment Automation Support Management Office
 - Stakeholders: ARCENT’s 1st TSC S6. FSR for Qatar, UAE, Egypt, Bahrain, Iraq, Afghanistan, Syria, Jordan. Tasks: Field Service Representative, Configured, implemented, optimized, taught, and administrated VSAT / CAISI, Full Stack SAAS-MOD SCP10 & SCP11, SAMS-E, ULLS-A, MC4, TAMIS, GCSS-Army. 
+
+### L3/MPRI | Sr. Systems Analyst |JBB SASMO G6
+- January 2011 – May 2018 
+- DoD SECRET
+- Project: Joint Base Balad ALAT 
+- Stakeholders: 402nd Army Field Support Brigade S6 
+- Tasks: Field Service Representative, Configured, implemented, optimized, taught, and administrated VSAT / CAISI, Full Stack SAAS-MOD SCP10, SAMS-E, TAMIS, PBUSE, GCSS-Army. - Iraq
+![image](https://user-images.githubusercontent.com/10322106/122894469-e1da7680-d34f-11eb-9ea3-4c2df395053b.png)
+
 
 
 
