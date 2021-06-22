@@ -1,5 +1,4 @@
 ## Allan Diaz, PMP 
-![Uploading image.png…]()
 
 OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
 
@@ -49,6 +48,14 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - Project: Joint Base Balad ALAT 
 - Stakeholders: 402nd Army Field Support Brigade S6 
 - Tasks: Field Service Representative, Configured, implemented, optimized, taught, and administrated VSAT / CAISI, Full Stack SAAS-MOD SCP10, SAMS-E, TAMIS, PBUSE, GCSS-Army. - Iraq
+
+### General Dynamics Information Technology (GDIT) | Sr. Functional Analyst | G4 Logistics
+- July 2008 – December 2008 
+- DoD SECRET 
+- Project: Ammunition 
+- Stakeholders: 1st TSC 
+- Tasks: Supervised, collaborated & guided Class 5 cohorts as a Subject Matter Expert (SME). Logistician, Required Supply Rate, Controlled Supply Rate, NLAC, LIW, JHCS. Developed Gap Analysis, Gantt chart, empirical statements. Shipping, Receiving, Warehousing, RFID. Performed Causative Research & Development (R&D) of conventional ammunition. Full Stack SAAS-MOD. – Kuwait 
+
 
 
 
