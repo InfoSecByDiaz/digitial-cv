@@ -36,6 +36,14 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - Stakeholders: ASG-Kuwait, IMD/ASB 
 - Tasks: I provide  Ad hoc IT Helpdesk Support, Remotely, Onsite, assist VTC and KDOC. Face-to-Face interaction | Resolved (users, hardware, software, & NIPR, SIPR, CITRIX network) problems. Provisioning NIPR & SIPR Accounts. Authenticated users on ATCTS, share folder, Intensive use of Active Directory, BMC Remedy ITSM, SharePoint. ADPE backup, imagining, baseline, and restore client machines IAW 54th Sig Battalion. – Kuwait
 
+### The Logistics Company (TLC) | Sr. Systems Analyst | Theater SASMO G6
+- January 2011 – May 2018 
+- DoD SECRET
+- Project: Theatre SASMO 
+- Stakeholders: ARCENT’s 1st TSC S6. FSR for Qatar, UAE, Egypt, Bahrain, Iraq, Afghanistan, Syria, Jordan. Tasks: Field Service Representative, Configured, implemented, optimized, taught, and administrated VSAT / CAISI, Full Stack SAAS-MOD SCP10 & SCP11, SAMS-E, ULLS-A, MC4, TAMIS, GCSS-Army. 
+
+
+
 
 
 
