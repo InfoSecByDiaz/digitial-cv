@@ -1,4 +1,4 @@
-## Allan Diaz, PMP
+## Allan Diaz, PMP ![Uploading image.png…]()
 
 OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
 
@@ -48,7 +48,8 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - Project: Joint Base Balad ALAT 
 - Stakeholders: 402nd Army Field Support Brigade S6 
 - Tasks: Field Service Representative, Configured, implemented, optimized, taught, and administrated VSAT / CAISI, Full Stack SAAS-MOD SCP10, SAMS-E, TAMIS, PBUSE, GCSS-Army. - Iraq
-![image](https://user-images.githubusercontent.com/10322106/122894469-e1da7680-d34f-11eb-9ea3-4c2df395053b.png)
+
+
 
 
 
