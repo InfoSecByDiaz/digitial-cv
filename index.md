@@ -1,4 +1,5 @@
-## Allan Diaz, PMP ![Uploading image.png…]()
+## Allan Diaz, PMP 
+![Uploading image.png…]()
 
 OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
 
