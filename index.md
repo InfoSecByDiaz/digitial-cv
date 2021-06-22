@@ -110,7 +110,7 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - CITI Program A Division of BRANY Social & Behavioral Research
 
 ### KNOWLEDGE, SKILLS, ABILITIES
-![Uploading image.png…]()
+
 - Customer Centric 
 - Agile, Time Management
 - STAMIS / LIS Instructor
@@ -118,6 +118,13 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - System Administrator, Powershell
 - ADPE, WIN, Mac, Linux
 - Network Administrator, LAN/WAN
+
+### Languages
+1. English
+2. Spanish
+3. Tagalog
+4. Arabic
+5. Thai
 
 For more details see my [webpage](https://allandiaz.tech/).
 
