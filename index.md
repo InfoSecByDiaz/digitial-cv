@@ -56,6 +56,20 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - Stakeholders: 1st TSC 
 - Tasks: Supervised, collaborated & guided Class 5 cohorts as a Subject Matter Expert (SME). Logistician, Required Supply Rate, Controlled Supply Rate, NLAC, LIW, JHCS. Developed Gap Analysis, Gantt chart, empirical statements. Shipping, Receiving, Warehousing, RFID. Performed Causative Research & Development (R&D) of conventional ammunition. Full Stack SAAS-MOD. – Kuwait 
 
+### The Logistics Company (TLC) | Ammunition Item Lead | G4 Logistics
+- April 2006– July 2008 
+- DoD SECRET 
+- Project: Ammunition 
+- Stakeholders: 1st TSC. 
+- Tasks: Supervised, collaborated & guided Class 5 cohorts as a Subject Matter Expert (SME). Logistician, Required Supply Rate, Controlled Supply Rate, NLAC, LIW, JHCS. Developed Gap Analysis, Gantt chart, empirical statements. Shipping, Receiving, Warehousing, RFID. Performed Causative Research & Development (R&D) of conventional ammunition. Full Stack SAAS-MOD. – Kuwait 
+
+### OEF/OIF US Army | Ordnance | Ammunition Specialist | July 1998 – July 2006 DoD SECRET
+- Ammunition Stock Control, 
+- Class 5 Subject Matter Expert 
+- Received, Stored, Issued Conventional Ammunition
+- Warehoused Guided Missiles, Rockets, Explosives. Oracle DBA, Resident Systems & Network Administrator, SQL scripting. SAAS-MOD Operator & instructor. Trained & mentored Munition Branch cohorts. Supported CFLCC, 1st TSC. Port Expeditor, Operated Military Heavy Equipment. Licensed 4000 - 6000 LB forklift. 
+- Supported ARCENT, Theater Materiel Management Center, CMMC, DMMC, ASG-Kuwait, TSA, ASPs, AHAs, ATHPs, Port Expeditor.
+
 ### CERTIFICATIONS
 - PMI: Project Management Professional (PMP) ®
 - CISCO CCNA Routing and Switching   
@@ -110,6 +124,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
