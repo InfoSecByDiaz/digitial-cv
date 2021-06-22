@@ -1,5 +1,4 @@
 ## Allan Diaz, PMP 
-![image](https://user-images.githubusercontent.com/10322106/122913130-beb8c280-d361-11eb-8066-77f3f2ac50f3.png)
 
 OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
 
@@ -119,40 +118,28 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - ADPE, WIN, Mac, Linux
 - Network Administrator, LAN/WAN
 
-### Languages
+![Uploading image.png…]()
+
+### DIGITAL FORENSIC TOOLS
+Encase, FTK, X-Ways, SIFT, Splunk, Caine, Redline, Volatility, Wireshark, tcpdump, Putty, Autopsy, Sleuth, and Cellebrite
+
+### LANGUAGES
 1. English
 2. Spanish
 3. Tagalog
 4. Arabic
 5. Thai
 
+### EDUCATION
+August 2021 AMU – MA Intelligence Studies – Collections 
+August 2020 AMU – BS Info. Systems Security-digital Forensics
+September 2016 AMU – Undergraduate Terrorism Studies
+September 2004 Westwood – AS Multi-media Graphics Design 
+February 1998 U.S. Army Ordnance Munitions & Electronics Maintenance School 
+June 1996 Los Angeles City College – AA Business Administration
+
+### HONORS, AWARDS, HOBBIES
+Honorable Discharge, Global War on Terrorism Expeditionary Medal, Global War on Terrorism Service Medal. Completed 12 L.A. Marathons, Criminal Justice Honor Society Alpha Phi Sigma award. Digital Forensics Incident Response (DFIR), Pen Testing, Packet Analyzer, Vulnerability Scanner, Front End Web Development, Virtual Machines (VM), Photography. RMF, NIST, FISMA, DISA STIG, COTS, and POA&Ms practitioner.
+
 For more details see my [webpage](https://allandiaz.tech/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/githubdiaz/digitial-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
