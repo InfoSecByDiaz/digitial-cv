@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
 <h1>Allan Diaz, PMP</h1>
 
 OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering Support to US Army, DoD, & DoS Projects. Seeking Entry Level DFIR, ISSO, or Intelligence opportunities. Currently working as a Network Administrator, 8570 @ IAT Level III. Working on Masters of Art Intelligence Studies-Collection. Recent S.T.E.M. graduate Bachelor of Science Information Systems Security-Digital Forensics. 
@@ -130,18 +134,23 @@ Encase, FTK, X-Ways, SIFT, Splunk, Caine, Redline, Volatility, Wireshark, tcpdum
 
 ### EDUCATION
 <ul>
-<li>August 2021 AMU – MA Intelligence Studies – Collections</li>
-<li>August 2020 AMU – BS Info. Systems Security-digital Forensics</li>
-<li>September 2016 AMU – Undergraduate Terrorism Studies</li>
-<li>September 2004 Westwood – AS Multi-media Graphics Design</li> 
+<li>August 2021 AMU, MA Intelligence Studies-Collections</li>
+<li>August 2020 AMU, BS Info. Systems Security-digital Forensics</li>
+<li>September 2016 AMU, Undergraduate Terrorism Studies</li>
+<li>September 2004 Westwood, AS Multi-media Graphics Design</li> 
 <li>February 1998 U.S. Army Ordnance Munitions & Electronics Maintenance School</li> 
-<li>June 1996 Los Angeles City College – AA Business Administration</li>
- </ul>
+<li>June 1996 Los Angeles City College, AA Business Administration</li>
+</ul>
 
 ### HONORS, AWARDS, HOBBIES
 Honorable Discharge, Global War on Terrorism Expeditionary Medal, Global War on Terrorism Service Medal. Completed 12 L.A. Marathons, Criminal Justice Honor Society Alpha Phi Sigma award. Digital Forensics Incident Response (DFIR), Pen Testing, Packet Analyzer, Vulnerability Scanner, Front End Web Development, Virtual Machines (VM), Photography. RMF, NIST, FISMA, DISA STIG, COTS, and POA&Ms practitioner.
 
 For more details see my [webpage](https://allandiaz.tech/).
 
-<input type="text">
+</head>
+<body>
+ 
+<h1>My First Emoji</h1>
+
+<p>&#128512;</p>
 
