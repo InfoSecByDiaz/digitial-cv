@@ -118,8 +118,6 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - ADPE, WIN, Mac, Linux
 - Network Administrator, LAN/WAN
 
-![Uploading image.png…]()
-
 ### DIGITAL FORENSIC TOOLS
 Encase, FTK, X-Ways, SIFT, Splunk, Caine, Redline, Volatility, Wireshark, tcpdump, Putty, Autopsy, Sleuth, and Cellebrite
 
