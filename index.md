@@ -93,22 +93,6 @@ OEF/OIF U.S. Army Veteran with 22+ Years of Experience & Preparation. Delivering
 - MS Windows 7 Enterprise Desktop Support Technician   
 - The Data Scientist’s Toolbox by Johns Hopkins University
 - CITI Program A Division of BRANY Social & Behavioral Research
-![image](https://user-images.githubusercontent.com/10322106/122909203-9f1f9b00-d35d-11eb-9f17-3bcf1bf7199f.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ```markdown
 Syntax highlighted code block
